@@ -1,6 +1,6 @@
 # 🎓 programmers-backend-devcourse
 
-프로그래머스에서 주관하는 백엔드 데브코스 4기를 진행하며 활동한 내역들을 적은 레포입니다.
+< 2023.06월 ~ 2023.12월 > 6개월 간 프로그래머스에서 주관하는 백엔드 데브코스 4기를 진행하며 활동한 내역들을 적은 레포입니다.
 
 ![Untitled](https://github.com/Hchanghyeon/programmers-backend-devcourse/assets/92444744/567ca19a-0744-4596-9443-e0f5954a3931)
 
