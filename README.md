@@ -28,13 +28,11 @@
 
 ## 💿 발표
 
-|                                                                         발표 명                                                                          |                  내용                  |     기간     |                                                            주소                                                             | 
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------:|:----------:|:-------------------------------------------------------------------------------------------------------------------------:|
-| <img src="https://github.com/charlesuu/programmers-backend-devcourse/assets/76809524/851885b6-7e08-43a1-992c-72859725f0f0" width="640" height="360"/> | HashTable의 원리, <br>Java8에 등장한 최적화 기법 | 2023/06/21 | [발표 영상](https://www.youtube.com/watch?v=BbN7dhcC2tw) <br><br> [발표 영상(Q&A 시간 포함)](https://www.youtube.com/watch?v=B76U8U2AfAQ) |
+|                  내용                  |     기간     |                                                            주소                                                             | 
+|:------------------------------------:|:----------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| HashTable의 원리, <br>Java8에 등장한 최적화 기법 | 2023/06/21 | [발표 영상](https://www.youtube.com/watch?v=BbN7dhcC2tw) <br><br> [발표 영상(Q&A 시간 포함)](https://www.youtube.com/watch?v=B76U8U2AfAQ) |
 
-<img src="https://github.com/charlesuu/programmers-backend-devcourse/assets/76809524/851885b6-7e08-43a1-992c-72859725f0f0" width="640" height="360"/>  
-
-![image](https://github.com/charlesuu/programmers-backend-devcourse/assets/76809524/851885b6-7e08-43a1-992c-72859725f0f0)
+<img src="https://github.com/charlesuu/programmers-backend-devcourse/assets/76809524/851885b6-7e08-43a1-992c-72859725f0f0" width="640" height="360"/>
 
 
 
